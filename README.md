@@ -13,11 +13,6 @@ https://play.google.com/store/apps/details?id=com.lothusgames.basketcannon&hl=en
 
 https://play.google.com/store/apps/details?id=com.lothusgames.bombsdog&hl=en_US&gl=US
 
-**Bubble - Gems World**
-![image](https://user-images.githubusercontent.com/47309489/170381292-ab2450b5-c429-44a6-a775-81c87931767c.png)
-
-https://play.google.com/store/apps/details?id=com.lothusgames.gemworld&hl=en_US&gl=US
-
 **Jogos para Gatos - Barata**
 ![image](https://user-images.githubusercontent.com/47309489/170381372-a77d89ee-e4c8-4a66-9375-36c4b9b05e7c.png)
 
@@ -27,3 +22,10 @@ https://play.google.com/store/apps/details?id=com.lothusgames.catgamesbarata&hl=
 ![image](https://user-images.githubusercontent.com/47309489/170381418-9e7663d8-e726-4758-af28-0dda21f0e6e3.png)
 
 https://play.google.com/store/apps/details?id=com.lothusgames.ricoofazendeiro&hl=en_US&gl=US
+
+
+**Bubble - Gems World**
+
+![image](https://user-images.githubusercontent.com/47309489/170381292-ab2450b5-c429-44a6-a775-81c87931767c.png)
+
+https://play.google.com/store/apps/details?id=com.lothusgames.gemworld&hl=en_US&gl=US
