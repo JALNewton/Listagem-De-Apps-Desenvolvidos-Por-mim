@@ -29,3 +29,9 @@ https://play.google.com/store/apps/details?id=com.lothusgames.ricoofazendeiro&hl
 ![image](https://user-images.githubusercontent.com/47309489/170381292-ab2450b5-c429-44a6-a775-81c87931767c.png)
 
 https://play.google.com/store/apps/details?id=com.lothusgames.gemworld&hl=en_US&gl=US
+
+**Space Jumper**
+
+![image](https://user-images.githubusercontent.com/47309489/170381755-15d1456b-0286-46a2-90e2-1e14d25bc7fa.png)
+
+https://play.google.com/store/apps/details?id=com.lothusgames.spacejumper&hl=en_US&gl=US
