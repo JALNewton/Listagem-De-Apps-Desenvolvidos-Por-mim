@@ -15,7 +15,6 @@ https://play.google.com/store/apps/details?id=com.lothusgames.bombsdog&hl=en_US&
 
 **Bubble - Gems World**
 ![image](https://user-images.githubusercontent.com/47309489/170381292-ab2450b5-c429-44a6-a775-81c87931767c.png)
-![image](https://user-images.githubusercontent.com/47309489/170381311-a67b2b9c-4860-4931-a399-a85f4abc86be.png)
 
 https://play.google.com/store/apps/details?id=com.lothusgames.gemworld&hl=en_US&gl=US
 
